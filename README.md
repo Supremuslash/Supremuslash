@@ -95,5 +95,6 @@ práticas e a construção de produtos úteis.
 
 - [LinkedIn](https://www.linkedin.com/in/victor-faustino-274164312/)
 - [GitHub](https://github.com/Supremuslash)
+- [Portifólio](https://portfolio-liard-nu-sdb8rlc5la.vercel.app/)
 
 
