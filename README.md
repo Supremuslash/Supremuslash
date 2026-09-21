@@ -17,7 +17,7 @@ projetos práticos com Java, Python, Front-End, APIs e testes automatizados.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-faustino-274164312/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Supremuslash)
 
-</div>
+
 
 ```text
 ----------------------------------------------------------------
@@ -25,8 +25,7 @@ projetos práticos com Java, Python, Front-End, APIs e testes automatizados.
 	foco:  software engineering | APIs | clean code | testes
 ----------------------------------------------------------------
 ```
-
-## `./stack`
+</div>
 
 ### Linguagens
 
