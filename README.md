@@ -45,7 +45,6 @@ projetos práticos com Java, Python, Front-End, APIs e testes automatizados.
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 
 
@@ -76,14 +75,6 @@ Busco minha primeira oportunidade na área de Tecnologia, especialmente em
 posições relacionadas a desenvolvimento de software, Java e Python. Meu
 objetivo é contribuir em equipes que valorizem aprendizado contínuo, boas
 práticas e a construção de produtos úteis.
----
-
-## `./github-stats`
-
-![GitHub Stats](./profile/stats.svg)
-
-![Top Languages](./profile/top-langs.svg)
-
 ---
 
 ## `./contact`
